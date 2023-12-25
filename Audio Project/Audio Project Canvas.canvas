@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"text","text":"[[WGPU]]","id":"d443d4ed90c6b3a8","x":-340,"y":160,"width":146,"height":100},
+		{"type":"text","text":"## [[Visualizer]]\n\n\t|feilds|","id":"706f06db2df90583","x":-360,"y":-220,"width":440,"height":150,"color":"1"}
+	],
+	"edges":[
+		{"id":"5208ca760dcf8a90","fromNode":"706f06db2df90583","fromSide":"bottom","toNode":"d443d4ed90c6b3a8","toSide":"right"}
+	]
+}

@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "4e926bca23790761",
+    "type": "split",
+    "children": [
+      {
+        "id": "539cf25708f134ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3dd6a54e4dc20cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git Source Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c09696444c97c6f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4d1fbdcf04a1063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c141e6ead7ca39a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d9d6de122706482",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "raph",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca8af2ec86c41dbd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "50a93fa03056199e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5
+  },
+  "right": {
+    "id": "7b57a155da13f3df",
+    "type": "split",
+    "children": [
+      {
+        "id": "29b4d3dfe03724e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "801e97651635723a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git Source Control.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b94339993a91e0bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git Source Control.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7779ec37e9d6b261",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1299c73be7a17fa2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git Source Control.md"
+              }
+            }
+          },
+          {
+            "id": "5d74927e386948e3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Open format converter": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "f3dd6a54e4dc20cd",
+  "lastOpenFiles": [
+    "Prompts order.md",
+    "PM Focal.md",
+    "Prompt Template Execute.md",
+    "VISA.md",
+    "Home Agriculture/Sensors.md",
+    "Git Source Control.md",
+    "Benchmark.md",
+    "Untitled 1.md",
+    "Home Agriculture/Home Agriculture.md",
+    "Home Agriculture/Competition.md",
+    "Home Agriculture/ML Models.md",
+    "Promptify/AWS Links.md",
+    "Promptify/0 Setup and Running.md",
+    "Home Agriculture",
+    "Untitled.canvas",
+    "Promptify/FOCAL AI.md",
+    "Promptify/PM.md",
+    "Promptify/1 TODO.md",
+    "Python/Create python env.md",
+    "Screen Shot 2023-10-06 at 4.06.56 PM.png",
+    "Screen Shot 2023-10-26 at 12.20.55 PM.png",
+    "Promptify/Focal.md",
+    "Promptify/Scrap.md",
+    "Promptify/2 Postman.md",
+    "Promptify/3 promptify-ai.md",
+    "Promptify/4 promptify-api.md",
+    "Promptify/5 Ticket.md",
+    "AITHOS/HuggingFace.md",
+    "AITHOS/ML Terms.md",
+    "AITHOS/SageMaker.md",
+    "AITHOS",
+    "Docker",
+    "Audio Project/Audio Project Canvas.canvas",
+    "Promptify",
+    "Audio Project",
+    "Rust/WGPU/Rust Wgpu/Learn WGPU/The Pipeline/Untitled.png",
+    "Rust/WGPU/Rust Wgpu/Learn WGPU/Textures and Bind Groups/Untitled.png",
+    "Rust/WGPU/Rust Wgpu/Learn WGPU/Textures and Bind Groups/Untitled 1.png",
+    "Rust/WGPU/Rust Wgpu/Learn WGPU/Buffers and Indices/Untitled.png",
+    "Rust/WGPU/Rust Wgpu/Learn WGPU/Buffers and Indices/Untitled 1.png",
+    "Rust/WGPU/JS WebGpu/Game of Life Tutorial/Draw a Grid/Untitled.png",
+    "Rust/WGPU/JS WebGpu/Game of Life Tutorial/Draw a Grid/Untitled 8.png",
+    "Rust/WGPU/JS WebGpu/Game of Life Tutorial/Draw a Grid/Untitled 6.png",
+    "Rust/WGPU/Rust Wgpu/Learn WGPU/The Pipeline",
+    "Rust/WGPU/Rust Wgpu/Learn WGPU/Textures and Bind Groups",
+    "Rust/WGPU/Rust Wgpu/Learn WGPU/Buffers and Indices",
+    "Rust/WGPU/JS WebGpu/Game of Life Tutorial/Draw a Grid",
+    "Rust/WGPU/JS WebGpu/Game of Life Tutorial/Draw Geometry",
+    "Untitled 1.canvas"
+  ]
+}
